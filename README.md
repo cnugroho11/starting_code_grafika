@@ -1,4 +1,4 @@
-"# starting_code_grafika" 
+# starting_code_grafika 
 
 use this if you dumb or lazy enough to start your GRAFKOM project.
 
